@@ -17,6 +17,7 @@ The project consists of the following key components:
 
 ## Performance
 The model achieves high accuracy across training, validation, and test splits. Performance metrics, including accuracy and confusion matrix visualizations, provide insight into the model’s ability to generalize to unseen data.
+![Actual vs. Predicted labels for potato leaf disease classification](images/actual_vs_predicted.png)
 
 ## Usage
 Clone this repository and follow the instructions in `model_training.ipynb` to run the model training and evaluation pipeline.
